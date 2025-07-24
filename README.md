@@ -92,6 +92,6 @@ Miku isn't just a bot — she's a gentle companion in your Discord world, whispe
 
 ### 📜 License
 
-MIT License
+[MIT License](LICENSE)
 
 
